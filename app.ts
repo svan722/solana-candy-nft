@@ -112,8 +112,8 @@ async function mintNft() {
 }
 
 // createCollectionNft();
-// generateCandyMachine();
+generateCandyMachine();
 // updateCandyMachine();
 // addItems();
-mintNft();
+// mintNft();
 
